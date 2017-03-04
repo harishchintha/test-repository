@@ -1,3 +1,3 @@
 # test-repository
 test repository
-hii to all
+hii to all members
